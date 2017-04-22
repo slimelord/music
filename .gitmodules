@@ -1,0 +1,3 @@
+[submodule "src/extempore"]
+	path = src/extempore
+	url = https://github.com/digego/extempore
